@@ -1,4 +1,4 @@
-# install react-router-dom
+# install react-router-dom, react-image-lightbox, fontawesome
 
 # Getting Started with Create React App
 
